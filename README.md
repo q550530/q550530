@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Tyrael Hsiao
-- 👀 I’m major with Industrial Engineering
-- 🌱 I’m currently learning C++/VB.ent to develop firmware and driver 
-- 💞️ I’m a Software Quality Assurement engineerer now  ,and I will to develop some tool to test software automatically by Autoit and VB.net
+- 👀 My major is Industrial Engineering and I'm currently learning C++/VB.ent to develop firmware and hardware driver 
+- 💞️ I’m a Software Quality Assurement engineerer now  ,sometime I will develop some tool to test software automatically by Autoit and VB.net
 - 📫 How to reach me ...
 
