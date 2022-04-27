@@ -2,13 +2,13 @@
  Welcome to my page!  😃   
 I'm Tyrael, Software engineerer :computer: from Taiwan   
 I'm currently using C++ to develop firmware and hardware driver and sometime I will develop some tool to test software automatically by Autoit and VB.net  
-**Personal**
+**About me**
 * Education: National Formosa University - Industrial Engineering master 
 * Personal Website: https://github.com/q550530
 * Location: Hsinchu city
 
 **Things I code with**  
-![](https://img.shields.io/badge/Cpp-4.5-blue)  ![](https://img.shields.io/badge/VB.net-2.5-green) ![](https://img.shields.io/badge/AutoIt-3.0-red) 
+![](https://img.shields.io/badge/Cpp-Usually-green) ![](https://img.shields.io/badge/AutoIt-Usually-green)    ![](https://img.shields.io/badge/VB.net-sometime-blue)  ![](https://img.shields.io/badge/Python-Occasionally-orange) ![](https://img.shields.io/badge/MySql-Seldom-red) ![](https://img.shields.io/badge/MatLab-%20Rarely-lightgrey)
 
 
 
