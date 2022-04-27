@@ -8,7 +8,18 @@ I'm currently using C++ to develop firmware and hardware driver and sometime I w
 * Location: Hsinchu city
 
 **Things I code with**  
-![](https://img.shields.io/badge/Cpp-Usually-green) ![](https://img.shields.io/badge/AutoIt-Usually-green)    ![](https://img.shields.io/badge/VB.net-sometime-blue)  ![](https://img.shields.io/badge/Python-Occasionally-orange) ![](https://img.shields.io/badge/MySql-Seldom-red) ![](https://img.shields.io/badge/MatLab-%20Rarely-lightgrey)
+![](https://img.shields.io/badge/Cpp-Usually-green) ![](https://img.shields.io/badge/AutoIt-Usually-green)  
+![](https://img.shields.io/badge/VB.net-sometime-blue)  
+![](https://img.shields.io/badge/Python-Occasionally-orange)  
+![](https://img.shields.io/badge/MySql-Seldom-red)  
+![](https://img.shields.io/badge/MatLab-%20Rarely-lightgrey)  
+**OS System**  
+![](https://img.shields.io/badge/Windows-Usually-green)  
+![](https://img.shields.io/badge/Linux-Seldom-red)  
+**Work tool**  
+Version control systems  
+![](https://img.shields.io/badge/WinCVS-Usually-green)  
+![](https://img.shields.io/badge/GitHub-sometime-green)  
 
 
 
