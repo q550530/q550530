@@ -10,7 +10,7 @@ I'm currently using C++ to develop firmware and hardware driver and sometime I w
 **Things I code with**  
 ![](https://img.shields.io/badge/Cpp-Usually-green) ![](https://img.shields.io/badge/AutoIt-Usually-green)  
 ![](https://img.shields.io/badge/VB.net-sometime-blue)  
-![](https://img.shields.io/badge/V-sometime-blue)  
+![](https://img.shields.io/badge/Verilog-sometime-blue)  
 ![](https://img.shields.io/badge/Python-Occasionally-orange)  
 ![](https://img.shields.io/badge/MySql-Seldom-red)  
 ![](https://img.shields.io/badge/MatLab-Seldom-red)  
