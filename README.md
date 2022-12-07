@@ -23,7 +23,7 @@ Version control systems
 ![](https://img.shields.io/badge/GitHub-Usually-green)  
 ![](https://img.shields.io/badge/SVN-Usually-green) 
 ![](https://img.shields.io/badge/WinCVS-sometime-blue)  
-**Embedded System** 
+**Embedded System**   
 ![](https://img.shields.io/badge/Openwrt-Usually-green) 
 
 ![Tyrael's GitHub stats](https://github-readme-stats.vercel.app/api?username=q550530&show_icons=true&theme=radical)
